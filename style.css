@@ -165,7 +165,8 @@ nav.open{
     display:none;
 }
 footer{
-background: rgba(0,0,0,0.7);
+background: rgba(0,0,0,0);
+    dipslay:none;
 }
 }
 
