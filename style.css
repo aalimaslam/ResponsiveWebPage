@@ -160,13 +160,14 @@ nav.open{
             display: flex;
             flex-wrap: wrap;
     }
-
+    .nav-items{
+    display:none;
+    }
 .copy{
     display:none;
 }
 footer{
 background: rgba(0,0,0,0);
-    dipslay:none;
 }
 }
 
